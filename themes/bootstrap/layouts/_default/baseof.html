@@ -1,5 +1,28 @@
-{{ partial "head" . }}
-{{ block "main" . }}
-  <!-- The part of the page that begins to differ between templates -->
-{{ end }}
-{{ partial "foot" . }}
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
+  {{ partial "base/metas" . }}
+
+
+  <link href="https://fonts.googleapis.com/css?family=Alegreya|Nunito" rel="stylesheet">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/_css/bootstrap.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/_css/bootstrap-grid.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/_css/bootstrap-reboot.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/css/style.css">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}assets/css/tomorrow-night.css">
+  <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+</head>
+<body class="bg-faded">
+    {{ partial "base/header" . }}
+
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+
+    {{ partial "base/footer" . }}
+  {{ partial "base/scripts" . }}
+</body>
+</html>

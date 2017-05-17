@@ -2,3 +2,23 @@
 //
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
+
+$gray-base:              #000;
+$gray-darker:            lighten($gray-base, 13.5%);
+$gray-dark:              #7b8a8b;
+$gray:                   #95a5a6;
+$gray-light:             #b4bcc2;
+$gray-lighter:           #ecf0f1;
+
+$brand-primary:         #337ab7;
+$brand-success:         rgb(120, 82, 47);
+$brand-info:            rgb(231,88,84);
+$brand-warning:         #F39C12;
+$brand-danger:          #E74C3C;
+
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-family-serif:      'Alegreya', serif;
+$font-family-base:       $font-family-sans-serif;
+$headings-font-family:   $font-family-sans-serif;
+
+$body-bg: $gray-lighter;
