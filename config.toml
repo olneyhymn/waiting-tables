@@ -14,10 +14,10 @@ theme = "bootstrap"
     pre = "<i class='fa fa-mobile'></i>"
     weight = 2
     identifier = "subscribe"
-    url = "/about/"
+    url = "#subscribe"
 [[menu.main]]
     name = "contact"
     pre = "<i class='fa fa-envelope'></i>"
     weight = 3
     identifier = "contact"
-    url = "/about/"
+    url = "mailto:tim@waiting-tables.com"
