@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,100);
 
 body {
-  font-family: "Roboto", "Open Sans", "Sans Serif", "Georgia", "Times New Roman", Times, serif;
   /* Margin bottom by footer height */
   margin-bottom: 100px;
   line-height: 1.6;
@@ -221,12 +220,6 @@ iframe {
 
 #recent-post li:hover .item-thumbnail {
   opacity: 0.8;
-}
-
-.post-container {
-  background-color: #fff;
-  margin-bottom: 1rem;
-  padding-top: 1rem;
 }
 
 img.post-thumbnail{
