@@ -22,7 +22,34 @@ $font-family-serif:      Alegreya, serif;
 $font-family-base:       $font-family-sans-serif;
 $headings-font-family:   $font-family-sans-serif;
 
+$link-color:            darken($link-color, 15%);
+$link-decoration:       none;
+$link-hover-color:      $brand-primary;
+$link-hover-decoration: underline;
+
 $body-bg: $gray-lighter;
 .bg-white {
     background-color: #fff;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 400px;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  width: 100%;
+  font-size: 0.8em;
+  padding-top: 2em;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
