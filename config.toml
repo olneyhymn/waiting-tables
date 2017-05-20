@@ -4,8 +4,20 @@ title = "Waiting Tables Podcast"
 theme = "bootstrap"
 
 [[menu.main]]
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
+    name = "about"
+    pre = "<i class='fa fa-question'></i>"
+    weight = 1
     identifier = "about"
+    url = "/about/"
+[[menu.main]]
+    name = "subscribe"
+    pre = "<i class='fa fa-mobile'></i>"
+    weight = 2
+    identifier = "subscribe"
+    url = "/about/"
+[[menu.main]]
+    name = "contact"
+    pre = "<i class='fa fa-envelope'></i>"
+    weight = 3
+    identifier = "contact"
     url = "/about/"
