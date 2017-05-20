@@ -15,7 +15,7 @@ scss:
 
 preview:
 	# Launch local server to preview pages (with auto refresh)
-	hugo server --verbose --watch
+	hugo server --verbose --watch --port 1313
 
 clean:
 	# Delete local build
