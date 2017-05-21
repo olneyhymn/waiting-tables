@@ -49,6 +49,19 @@ html {
   padding-top: 2em;
 }
 
+.header-col {
+    min-height: 350px;
+}
+
+.bg-pews {
+    background: url('/assets/images/pexels-photo-133699.jpeg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
