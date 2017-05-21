@@ -1,9 +1,6 @@
 ---
 type: "post"
 draft: true
-author: "author"
+author: "Tim Hopper"
 description: "description"
-keywords: ["key", "words"]
-topics: ["topic 1"]
-tags: ["one", "two"]
 ---
