@@ -1,5 +1,6 @@
 SASSDIR='themes/bootstrap/static/assets/sass'
 COMPILEDCSSDIR='themes/bootstrap/static/assets/_css'
+S3_BUCKET='waiting-tables.com'
 
 all: clean build push
 	# Rebuild pages
@@ -7,8 +8,8 @@ all: clean build push
 	echo "Fail"
 
 build:
-	hugo --verbose
 	sass $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.scss
+		hugo --verbose
 
 scss:
 	sass --watch $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.css
@@ -21,9 +22,9 @@ clean:
 	# Delete local build
 	rm -rf public
 
-deploy:
+deploy: build
 	# Deploy site to heroku
-	s3cmd sync --acl-public --delete-removed public/ s3://reformeddeacon.com
+	s3cmd sync --acl-public --delete-removed public/ s3://$(S3_BUCKET)
 
 push:
 	# Push to github
