@@ -43,6 +43,10 @@ html {
   min-height: 100%;
 }
 
+#subtitle {
+    color: $gray-darker;
+}
+
 .footer {
   width: 100%;
   font-size: 0.8em;
@@ -59,7 +63,6 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
 }
 
 * {

@@ -1,6 +1,6 @@
 baseURL = "http://waiting-tables.com/"
 languageCode = "en-us"
-title = "Waiting Tables Podcast"
+title = "Waiting Tables"
 theme = "bootstrap"
 
 [[menu.main]]
