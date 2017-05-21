@@ -1,4 +1,4 @@
-baseURL = "http://waiting-tables.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://waiting-tables.com/"
 languageCode = "en-us"
 title = "Waiting Tables Podcast"
 theme = "bootstrap"
