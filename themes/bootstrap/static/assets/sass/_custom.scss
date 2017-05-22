@@ -54,7 +54,12 @@ html {
 }
 
 .header-col {
-    min-height: 350px;
+    @include media-breakpoint-up(lg) {
+        min-height: 450px;
+    }
+    @include media-breakpoint-down(md) {
+        min-height: 350px;
+    }
 }
 
 .bg-pews {
