@@ -58,12 +58,20 @@ html {
 }
 
 .bg-pews {
-    background: url('/assets/images/pexels-photo-133699.jpeg') no-repeat center center fixed;
+    @include media-breakpoint-up(md) {
+        background: url('/assets/images/pexels-photo-133699.jpeg') no-repeat center center fixed;
+    }
+    @include media-breakpoint-down(sm) {
+        background: url('/assets/images/pexels-photo-133699.jpeg');
+        background-size: cover;
+    }
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
+
 
 * {
   -webkit-font-smoothing: antialiased;
