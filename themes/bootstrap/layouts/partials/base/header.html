@@ -19,16 +19,17 @@
       {{end}}
     </ul>
     <ul class="nav navbar-nav ml-auto">
-        <li class="nav-item"><a href="mailto:tim@waiting-tables.com" title="Email" class="nav-link">
-        <i class="fa fa-envelope fa-lg"></i></a></li>
+        <li class="nav-item"><a href="mailto:{{ .Site.Params.email }}" title="Email" class="nav-link">
+        <i class="fa fa-envelope fa-lg"></i><span class="hidden-lg-up"> Email</span></a></li>
         <li class="nav-item"><a href="http://www.twitter.com/_waitingtables_" title="Twitter" class="nav-link" target="_blank">
-        <i class="fa fa-twitter-square fa-lg"></i></a></li>
+        <i class="fa fa-twitter-square fa-lg"></i><span class="hidden-lg-up"> Twitter</span></a></li>
         <li class="nav-item"><a href="http://www.facebook.com/waitingtablespodcast" title="Facebook" class="nav-link">
-        <i class="fa fa-facebook-square fa-lg"></i></a></li>
+        <i class="fa fa-facebook-square fa-lg"></i><span class="hidden-lg-up"> Facebook</span></a></li>
+        <li class="nav-item"><a href="http://www.soundcloud.com/waitingtables" title="Facebook" class="nav-link">
+        <i class="fa fa-soundcloud fa-lg"></i><span class="hidden-lg-up"> Soundcloud</span></a></li>
     </ul>
   </div>
 </nav>
-
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-6 bg-info text-white d-flex header-col py-4">

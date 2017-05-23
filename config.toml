@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Waiting Tables"
 theme = "bootstrap"
 
+[params]
+    email = "tdhopper@gmail.com?subject=Waiting Tables Feedback"
+
 [[menu.main]]
     name = "about"
     pre = "<i class='fa fa-question'></i>"
