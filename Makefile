@@ -9,14 +9,13 @@ all: clean build push
 
 build:
 	sass $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.scss
-		hugo --verbose
 
 scss:
 	sass --watch $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.css
 
 preview:
 	# Launch local server to preview pages (with auto refresh)
-	hugo server --verbose --watch --port 1313
+	hugo server --watch --port 1313 --buildDrafts --buildFuture --quiet
 
 clean:
 	# Delete local build
