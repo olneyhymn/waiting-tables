@@ -82,3 +82,11 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.episode {
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.125);
+    box-shadow: 0 3px 6px rgba(0,0,0,.125);
+    .card-text {
+      font-size: 113%;
+    }
+}
