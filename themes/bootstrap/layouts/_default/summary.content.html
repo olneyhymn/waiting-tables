@@ -3,7 +3,7 @@
     {{ if .Description }}
       {{ .Description | markdownify }}
     {{ else }}
-      {{ .Summary }}
+      {{ .Content }}
     {{ end }}
   {{ end }}
 </p>
