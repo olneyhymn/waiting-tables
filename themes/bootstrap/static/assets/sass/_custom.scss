@@ -86,10 +86,13 @@ html {
 .episode {
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.125);
     box-shadow: 0 3px 6px rgba(0,0,0,.125);
-    margin-bottom: 4em;
+    margin-bottom: 2em;
     width: 700px;
     max-width: 90%;
     .card-text {
       font-size: 113%;
+    }
+    .card-header, .card-footer {
+      background-color: rgba(245, 245, 245, 1);
     }
 }
