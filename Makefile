@@ -9,6 +9,7 @@ all: clean build push
 
 build:
 	sass $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.scss
+	hugo
 
 scss:
 	sass --watch $(SASSDIR)/bootstrap.scss:$(COMPILEDCSSDIR)/bootstrap.css $(SASSDIR)/bootstrap-grid.scss:$(COMPILEDCSSDIR)/bootstrap-grid.css $(SASSDIR)/bootstrap-reboot.scss:$(COMPILEDCSSDIR)/bootstrap-reboot.css
