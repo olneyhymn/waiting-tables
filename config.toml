@@ -5,7 +5,7 @@ theme = "bootstrap"
 
 [params]
     email = "tdhopper@gmail.com?subject=Waiting Tables Feedback"
-
+    twitter = "_waitingtables_"
 [[menu.main]]
     name = "about"
     pre = "<i class='fa fa-question'></i>"
