@@ -4,7 +4,7 @@ title = "Waiting Tables"
 theme = "bootstrap"
 
 [params]
-    email = "tdhopper@gmail.com?subject=Waiting Tables Feedback"
+    email = "tim@waiting-tables.com?subject=Waiting Tables Feedback"
     twitter = "_waitingtables_"
 [[menu.main]]
     name = "about"
