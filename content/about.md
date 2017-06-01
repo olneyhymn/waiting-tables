@@ -19,7 +19,7 @@ type = "page"
             <h2>👥 Helping Your Church with Logistics and Administration</h2>
             <p>We will have episodes about buildings, bookkeeping, websites, security, advertising, volunteer scheduling, communications, sermon recording, and more. The podcast will feature interviews with church leaders about the ins-and-outs of their work, interviews with the creators of tools designed to help churches, and deep dives into church challenges and ways to solve them.
             </p>
-            <p> Are you a pastor, church leader, volunteer coordinator, or just a member looking to serve more effectively? This biweekly podcast is for you. The first episode is coming soon, so sign up for our newsletter today, and we’ll notify you when it’s released.
+            <p> Are you a pastor, church leader, volunteer coordinator, or just a member looking to serve more effectively? This biweekly podcast is for you.
             </p>
         </div>
         <div class="col-sm-4">
