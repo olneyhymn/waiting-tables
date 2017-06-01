@@ -7,14 +7,26 @@ title = "What is Waiting Tables?"
 type = "episode"
 sc_id = "325555607"
 episode = 1
+guests = ['Chad Ashby']
+
+[[links]]
+name = "Flocknote"
+link = "https://app.flocknote.com/TryFlocknote?ref=13609"
+description = "Text Messaging and Email for Churches"
+[[links]]
+name = "Aplos"
+link = "https://www.aplos.com"
+description = "Web-based accounting for churches and non-profits"
+[[links]]
+name = "College Street Baptist Church"
+link = "https://collegestreetbc.org/"
+description = "Chad's Church"
+[[links]]
+name = "AFTER+MATH"
+link = "https://chadashby.com"
+description = "Chad's blog"
+[[links]]
+name = "@chad_ashby"
+link = "http://twitter.com/chad_ashby"
+description = "Chad's Twitter"
 +++
-
-##  <i class='fa fa-pencil'></i> Show Notes
-
-#### Mentioned on the Show 👇
-
-* [Flocknote](https://app.flocknote.com/TryFlocknote?ref=13609) - Text Messaging and Email for Churches
-* [Aplos](https://www.aplos.com) - Web-based accounting for churches and non-profits
-* [College Street Baptist Church](https://collegestreetbc.org/) - Chad's Church
-* [AFTER+MATH](https://chadashby.com/) - Chad's blog
-* [@chad_ashby](http://twitter.com/chad_ashby) - Chad's Twitter

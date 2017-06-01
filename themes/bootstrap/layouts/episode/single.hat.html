@@ -1,1 +1,13 @@
 {{ partial "episode/card.html" . }}
+
+<h2><i class='fa fa-pencil'></i> Show Notes</h2>
+
+<h5> Mentioned on the Show 👇</h5>
+
+{{ with .Params.links }}
+<ul>
+{{ range $key, $value := . }}
+    <li><a href="{{ $value.link }}" target="_blank">{{ $value.name }}</a> &mdash; {{ $value.description }}</li>
+{{ end }}
+</ul>
+{{ end }}

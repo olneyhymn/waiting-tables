@@ -3,7 +3,6 @@ author = "author"
 date = "2017-05-19T19:57:34-04:00"
 title = "About"
 type = "page"
-
 +++
 
 <div class="container">
@@ -19,7 +18,7 @@ type = "page"
             <h2>👥 Helping Your Church with Logistics and Administration</h2>
             <p>We will have episodes about buildings, bookkeeping, websites, security, advertising, volunteer scheduling, communications, sermon recording, and more. The podcast will feature interviews with church leaders about the ins-and-outs of their work, interviews with the creators of tools designed to help churches, and deep dives into church challenges and ways to solve them.
             </p>
-            <p> Are you a pastor, church leader, volunteer coordinator, or just a member looking to serve more effectively? This biweekly podcast is for you.
+            <p> Are you a pastor, church leader, volunteer coordinator, or just a member looking to serve more effectively? This biweekly podcast is for you.c
             </p>
         </div>
         <div class="col-sm-4">
