@@ -12,9 +12,3 @@ theme = "bootstrap"
     weight = 1
     identifier = "about"
     url = "/about/"
-[[menu.main]]
-    name = "subscribe"
-    pre = "<i class='fa fa-mobile'></i>"
-    weight = 2
-    identifier = "subscribe"
-    url = "#subscribe"

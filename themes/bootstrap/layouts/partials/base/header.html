@@ -17,6 +17,19 @@
         </a>
       </li>
       {{end}}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/subscribe" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <i class='fa fa-mobile'></i> <span>Subscribe</span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="https://itunes.apple.com/us/podcast/waiting-tables-podcast/id1241716184?mt=2">iTunes</a>
+          <a class="dropdown-item" href="https://overcast.fm/p604046-0VFbHY">Overcast</a>
+          <a class="dropdown-item" href="https://soundcloud.com/waitingtables">Soundcloud</a>
+          <a class="dropdown-item" href="http://pca.st/MwCa">Pocket Casts</a>
+          <a class="dropdown-item" href="#subscribe">Email</a>
+          <a class="dropdown-item" href="http://feedpress.me/waiting-tables">RSS</a>
+        </div>
+      </li>
     </ul>
     <ul class="nav navbar-nav ml-auto">
         <li class="nav-item"><a href="mailto:{{ .Site.Params.email }}" title="Email" class="nav-link">
