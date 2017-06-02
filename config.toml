@@ -12,3 +12,10 @@ theme = "bootstrap"
     weight = 1
     identifier = "about"
     url = "/about/"
+[[menu.main]]
+    name = "sponsor"
+    pre = "<i class='fa fa-star'></i>"
+    weight = 1
+    identifier = "sponsor"
+    url = "/sponsor/"
+
