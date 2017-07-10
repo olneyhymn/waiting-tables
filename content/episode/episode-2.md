@@ -1,6 +1,6 @@
 +++
 author = "Tim Hopper"
-date = "2017-06-01"
+date = "2017-06-15"
 description = "I talk with Matthew Sewell about Flocknote, an email and text message based communication tool for churches."
 draft = false
 title = "Flocknote: a simple, powerful church communication tool"
