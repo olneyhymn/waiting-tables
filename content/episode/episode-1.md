@@ -5,7 +5,7 @@ description = "I sit down with Chad Ashby, pastor of a small church in South Car
 draft = false
 title = "What is Waiting Tables?"
 type = "episode"
-sc_id = "http://waitingtables-media.com.s3.amazonaws.com/audio/episode1(2).mp3"
+sc_id = "http://waitingtables-media.com.s3.amazonaws.com/audio/episode1.mp3"
 episode = 1
 guests = ['Chad Ashby']
 
