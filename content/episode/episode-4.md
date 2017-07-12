@@ -2,11 +2,11 @@
 author = "Tim Hopper"
 date = "2017-07-13"
 description = "I talk with Matt Heerema of Mere Agency ways in which churches can improve their graphic design."
-draft = true
+draft = false
 title = "Graphic Design with Matt Heerema"
 type = "episode"
 sc_id = "http://waitingtables-media.com.s3.amazonaws.com/audio/social-media-for-churches-101.mp3"
-episode = 3
+episode = 4
 slug = 'social-media-for-churches-101'
 guests = ['Matt Heerema']
 
@@ -51,24 +51,19 @@ name = "MereChurch"
 link = "https://merechurch.com/"
 description = "Simple, powerful church websites"
 [[links]]
-name = "Mere Agency - Effective, easy-to-use, Web sites"
+name = "Mere Agency"
 link = "https://mereagency.com/"
-description = ""
+description = "Effective, easy-to-use, websites"
 +++
 
 Matt Heermea is a Pastor of [Stonebrook Church](http://stonebrook.org/) in Ames, Iowa and owner, director and Web Strategist at [Mere Agency](https://mereagency.com/ "Mere Agency - Effective, easy-to-use, Web sites"). Prior to this, Matt was Principal Designer at AOL, working on such sites as [Engadget.com](https://www.engadget.com/), and later as the Sr. Web Manager for [DesiringGod.org](http://www.desiringgod.org/ "Desiring God").
 
-Matt recently wrote an article called [Three Tips to Instantly Improve Your Church's Graphic Design](http://mattheerema.com/web-tech-design/2017/06/three-tips-to-instantly-improve-your-churchs-graphic-design/).
+Matt recently wrote an article called [Three Tips to Instantly Improve Your Church's Graphic Design](http://mattheerema.com/web-tech-design/2017/06/three-tips-to-instantly-improve-your-churchs-graphic-design/). I speak with Matt about that article.
 
-The reason we get cheesy, bad design is that people are given the tools [e.g. computers] without the principles of design.
+Here were some of my takeaways:
 
-Even if you don't have formal training, if we do design mindfully, we can dramatically improve it.
+* The reason we get cheesy, bad design is that people are given the tools [e.g. computers] without the principles of design.
+* Even if you don't have formal training, if we do design mindfully, we can dramatically improve it.
+* Thinking about our graphic design and our communication is a way to show we care about our ministry.
 
-Thinking about our graphic design and our communication is a way to show we care about our ministry and
-
-Matt's post had three:
-
-1. Keep it extremely simple.
-2. Keep it consistent.
-3. Keep an eye on the pros.
-
+Go [read the post](http://mattheerema.com/web-tech-design/2017/06/three-tips-to-instantly-improve-your-churchs-graphic-design/) and listen to my interview with Matt!
