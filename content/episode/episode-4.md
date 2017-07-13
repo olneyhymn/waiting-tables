@@ -7,7 +7,7 @@ title = "Graphic Design with Matt Heerema"
 type = "episode"
 sc_id = "http://waitingtables-media.com.s3.amazonaws.com/audio/graphic-design-with-matt-heerema.mp3"
 episode = 4
-slug = 'social-media-for-churches-101'
+slug = 'graphic-design-with-matt-heerema'
 guests = ['Matt Heerema']
 
 [[links]]
