@@ -1,0 +1,10 @@
+
+<h5>Links Mentioned on the Show 👇</h5>
+
+{{ with .Params.links }}
+<ul>
+{{ range $key, $value := . }}
+    <li><a href="{{ $value.link }}" target="_blank">{{ $value.name }}</a>{{ with $value.description }} &mdash; {{ . }}{{ end }}</li>
+{{ end }}
+</ul>
+{{ end }}
