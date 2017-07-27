@@ -3,8 +3,6 @@ COMPILEDCSSDIR='themes/bootstrap/static/assets/_css'
 S3_BUCKET='waiting-tables.com'
 
 all: clean build push
-	# Rebuild pages
-	# s3cmd sync --acl-public --delete-removed public/ s3://reformeddeacon.com
 	echo "Fail"
 
 build:
