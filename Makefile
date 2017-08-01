@@ -23,6 +23,7 @@ clean:
 deploy: build
 	# Deploy site to heroku
 	s3cmd sync --acl-public --delete-removed public/ s3://$(S3_BUCKET)
+	python build-scripts/invalidate.py
 
 push:
 	# Push to github
