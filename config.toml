@@ -2,6 +2,7 @@ baseURL = "http://waiting-tables.com/"
 languageCode = "en-us"
 title = "Waiting Tables"
 theme = "bootstrap"
+DisqusShortname = "waiting-tables"
 
 [params]
     email = "tim@waiting-tables.com?subject=Waiting Tables Feedback"
