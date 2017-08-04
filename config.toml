@@ -5,8 +5,8 @@ theme = "bootstrap"
 DisqusShortname = "waiting-tables"
 
 [params]
-    email = "tim@waiting-tables.com?subject=Waiting Tables Feedback"
-    twitter = "_waitingtables_"
+email = "tim@waiting-tables.com?subject=Waiting Tables Feedback"
+twitter = "_waitingtables_"
 [[menu.main]]
     name = "about"
     pre = "<i class='fa fa-question'></i>"
