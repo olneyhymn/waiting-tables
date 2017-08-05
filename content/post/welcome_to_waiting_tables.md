@@ -14,6 +14,6 @@ We will have episodes about buildings, bookkeeping, websites, security, advertis
 
 Are you a pastor, church leader, volunteer coordinator, or just a member looking to serve more effectively? This biweekly podcast is for you. The first episode is coming soon, so <a href="#subscribe">sign up for our newsletter today</a>, and we’ll notify you when it’s released.
 
-We are taking suggestions for topics to discuss on the show. Whether you’re looking for a comparison of nursery pagers or suggested policies for counting your weekly collection, <a href="mailto:{{ .Site.Params.email }">we want to hear how we can help you</a>.
+We are taking suggestions for topics to discuss on the show. Whether you’re looking for a comparison of nursery pagers or suggested policies for counting your weekly collection, <a href="mailto:tim@waiting-tables.com">we want to hear how we can help you</a>.
 
-We are looking for guests for the podcast! Would you like to come on and talk about how you’ve solved logistical problems at your church? Do you want to come on and talk about your product designed to help churches? <a href="mailto:{{ .Site.Params.email }">Please drop us a line!</a>
+We are looking for guests for the podcast! Would you like to come on and talk about how you’ve solved logistical problems at your church? Do you want to come on and talk about your product designed to help churches? <a href="mailto:tim@waiting-tables.com">Please drop us a line!</a>
