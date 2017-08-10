@@ -90,7 +90,7 @@ Here are some tips, once you’ve determined your audio needs:
 * [Zoom](http://amzn.to/2fuIQMv) is a great brand for digital recorders.
 Good brands to look into with amps are Crown and QSC.
 * If you’re looking for ways to learn more about audio equipment, look for volunteer opportunities at smaller local schools or other organizations to pick up tips and tricks
-* If you plan on recording your audio, redundancy is important.  You may want to have a backup recorder running simultaneously to a primary recorder so that if there is some malfunction, you have a backup recording to fall back on.
+* If you plan on recording your audio, redundancy is important.  You may want to have a backup recorder running simultaneously to a primary recorder so that if there is some malfunction, you have a fall-back recording.
 * Use the best quality microphone you can afford as the input for your recordings.  It will make a huge difference in the overall quality of your recordings.
 
 
