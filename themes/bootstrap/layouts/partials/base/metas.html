@@ -14,7 +14,7 @@
 {{ end }}
 
 <meta property="og:image" content="{{ .Site.BaseURL }}assets/images/pexels-photo-133699.jpeg"/>
-<meta property="og:title" content="{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }} {{ end }}">
+<meta property="og:title" content="{{ .Title }} {{ if ne .Title .Site.Title }}: {{ .Site.Title }} {{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
