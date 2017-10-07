@@ -55,6 +55,10 @@ description = "Brad Hambrick's article in Tabletalk Magazine"
 name = "A Church Addresses Sexual Abuse"
 link = "http://bradhambrick.com/abusereporting/"
 description = "Series on Brad Hambrick's website"
+[[links]]
+name = "God Made All of Me: A Book to Help Children Protect Their Bodies"
+link = "http://amzn.to/2y6NBTg"
+description = "Book recommended by Josh for parents to teach their children"
 +++
 
 In this episode, I speak with Josh Navey, children's pastor at Summit. He is involved in ministering to the children of Summit, from birth to the fourth grade level.
