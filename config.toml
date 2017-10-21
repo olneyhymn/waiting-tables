@@ -1,4 +1,4 @@
-baseURL = "https://waiting-tables.com/"
+baseURL = "https://waiting-tables.com"
 languageCode = "en-us"
 title = "Waiting Tables"
 theme = "bootstrap"

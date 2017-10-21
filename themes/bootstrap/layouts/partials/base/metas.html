@@ -32,7 +32,7 @@
     {{ end }}
 {{ end }}
 
-<meta property="og:image" content="{{ .Site.BaseURL }}assets/images/pexels-photo-133699.jpeg"/>
+<meta property="og:image" content="{{ .Site.BaseURL }}/assets/images/pexels-photo-133699.jpeg"/>
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }}: {{ .Site.Title }}{{ end }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Permalink }}" />
@@ -44,7 +44,7 @@
 
 
   {{ if ne .Site.Params.twitter "" }}
-<meta name="twitter:image" content="{{ .Site.BaseURL }}assets/images/pexels-photo-133699.jpeg" />
+<meta name="twitter:image" content="{{ .Site.BaseURL }}/assets/images/pexels-photo-133699.jpeg" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
 <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}" />
