@@ -20,9 +20,12 @@ clean:
 	# Delete local build
 	rm -rf public
 
-deploy: build
-	# Deploy site to heroku
+deploy: build s3_upload invalidate
+
+s3_upload:
 	s3cmd sync --acl-public --delete-removed public/ s3://$(S3_BUCKET)
+
+invalidate:
 	python build-scripts/invalidate.py
 
 push:
