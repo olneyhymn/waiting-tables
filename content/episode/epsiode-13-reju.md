@@ -208,27 +208,27 @@ Counselors can also be very helpful in caring for victims. The church’s leader
 
 
 [^fn1]: “Sex Offender Statistics,” Statistic Brain, accessed February 11, 2014, http://www.statisticbrain.com/sex-offender-statistics.
-[^fn2]:  Robin Sax, Predators and Child Molesters: What Every Parent Needs to Know to Keep Kids Safe (Amherst, NY: Prometheus, 2009), 24–25.
+[^fn2]:  Robin Sax, [Predators and Child Molesters: What Every Parent Needs to Know to Keep Kids Safe](http://amzn.to/2yJibQH) (Amherst, NY: Prometheus, 2009), 24–25.
 [^fn3]:  The U.S. Department of Justice NSOPW (National Sexual Offender Public Website), accessed February 11, 2014, http://www.nsopr.gov/en/Education/FactsMythsStatistics#reference.
 [^fn4]: Ibid
 [^fn5]: Ibid
 [^fn6]: Ibid
-[^fn7]:  U.S. Department of Justice Bureau of Statistics, “Sexual Assault of Young Children as Reported to Law Enforcement: Victim, Incident, and Offender Characteristics,” 10, accessed February 11, 2014, http://www.bjs.gov/content/pub/pdf/saycrle.pdf.
-[^fn8]: Ibid., 2, accessed February 11, 2014, http://www.bjs.gov/content/pub/pdf/saycrle.pdf.
-[^fn9]: Boz Tchividjian, “Startling Statistics: Child sexual abuse and what the church can begin doing about it,” RNS: Religion News Service, accessed February 11, 2014, http://boz.religionnews.com/2014/01/09/startling-statistics/.
+[^fn7]:  U.S. Department of Justice Bureau of Statistics, [“Sexual Assault of Young Children as Reported to Law Enforcement: Victim, Incident, and Offender Characteristics](http://www.bjs.gov/content/pub/pdf/saycrle.pdf),” 10, accessed February 11, 2014.
+[^fn8]: Ibid., 2, accessed February 11, 2014.
+[^fn9]: Boz Tchividjian, [“Startling Statistics: Child sexual abuse and what the church can begin doing about it](http://boz.religionnews.com/2014/01/09/startling-statistics/),” RNS: Religion News Service, accessed February 11, 2014.
 [^fn10]:  Sax, Predators and Child Molesters, 24–25.
 [^fn11]:  Vieth, “What Would Walther Do?” 270–71.
-[^fn12]:  Boz Tchividjian, “5 Things You Should Know about Child Sexual Offenders,” Resurgence, accessed February 14, 2014, http://theresurgence.com/2012/04/14/5-things-you-should-know-about-child-sexual-offenders. The study Tchividjian cites is the Abel and Harlow Child Molestation Prevention Study (2002), accessed December 1, 2013, http://www.childmolestationprevention.org/pages/study.html. This study further states, “Of the 3,952 men who admitted to being child molesters, 68 percent reported that they had molested a child in their family” (8). For a more in-depth look, see Gene Abel and Nora Harlow, The Stop Child Molestation Book (Bloomington, IN: Xlibris, 2001).
-[^fn13]:  James Cobble, Richard Hammer, and Steven Klipowicz, Reducing the Risk II: Making Your Church Safe From Sexual Abuse (Carol Stream, IL: Church Law & Tax Report, 2003), 12.
+[^fn12]:  Boz Tchividjian, “[5 Things You Should Know about Child Sexual Offenders](http://theresurgence.com/2012/04/14/5-things-you-should-know-about-child-sexual-offenders),” Resurgence, accessed February 14, 2014. The study Tchividjian cites is the [Abel and Harlow Child Molestation Prevention Study](http://www.childmolestationprevention.org/pages/study.html) (2002), accessed December 1, 2013. This study further states, “Of the 3,952 men who admitted to being child molesters, 68 percent reported that they had molested a child in their family” (8). For a more in-depth look, see Gene Abel and Nora Harlow, [The Stop Child Molestation Book](http://amzn.to/2hBmg66) (Bloomington, IN: Xlibris, 2001).
+[^fn13]:  James Cobble, Richard Hammer, and Steven Klipowicz, [Reducing the Risk II: Making Your Church Safe From Sexual Abuse](http://amzn.to/2zKoQgQ) (Carol Stream, IL: Church Law & Tax Report, 2003), 12.
 [^fn14]:  Salter, Predators, 76–78. The Abel and Harlow Child Molestation Prevention Study gives a sense of how many men versus women are molesters: “Of a sample of 4,007 men and women who admit to molesting a child 13 years old or younger, 99 percent were male and 1 percent were female” (8).
 [^fn15]:  Gavin de Becker, forward to Salter, Predators, xi.
 [^fn16]: Ibid.
-[^fn17]:  Jaycee Dugard, A Stolen Life: A Memoir (New York: Simon & Schuster, 2011), 9–11. See also Barbara Walters’ very sobering video interview of Jaycee online: accessed February 5, 2014, www.abcnews.go.com/US/jaycee_dugard/.
+[^fn17]:  Jaycee Dugard, [A Stolen Life: A Memoir](http://amzn.to/2hD3Q4T) (New York: Simon & Schuster, 2011), 9–11. See also [Barbara Walters’ very sobering video interview of Jaycee](http://www.abcnews.go.com/US/jaycee_dugard/): accessed February 5, 2014.
 [^fn18]: Ibid.
 [^fn19]: Ibid.
 [^fn20]:  Swagman, Preventing Child Abuse, 62
-[^fn21]:  Diane Langberg, Counseling Survivors of Sexual Abuse (Maitland, FL: Xulon, 2003), 87–90.
-[^fn22]:  Boz Tchividjian, “When Faith Hurts: How the Christian Community Can Serve Survivors of Sexual Abuse” (video), accessed February 24, 2014, http://vimeo.com/60270235.
+[^fn21]:  Diane Langberg, [Counseling Survivors of Sexual Abuse](http://amzn.to/2yKy3CC) (Maitland, FL: Xulon, 2003), 87–90.
+[^fn22]:  Boz Tchividjian, “[When Faith Hurts: How the Christian Community Can Serve Survivors of Sexual Abuse](http://vimeo.com/60270235)” (video), accessed February 24, 2014.
 [^fn23]:  Vieth, “What Would Walther Do?” 267.
 [^fn24]: Ibid.
 [^fn25]: Ibid.
