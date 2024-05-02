@@ -1,4 +1,4 @@
-baseURL = "https://waiting-tables.com"
+baseURL = "https://waiting-tables.netlify.app"
 languageCode = "en_US"
 title = "Waiting Tables"
 theme = "bootstrap"
